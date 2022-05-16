@@ -1,0 +1,10 @@
+
+
+<resources>
+<string name="app_name">MiappTareas</string>
+<string name="txtCentigrados">Grados Centigrados</string>
+<string name="txtFahrenheit">Grados Fahrenheit</string>
+<string name="buttonConversionC">Convertir Centigrados</string>
+<string name="buttonConversionF">Convertir Fahrenheit</string>
+<string name="btnBorrar">Reiniciar</string>
+</resources>
